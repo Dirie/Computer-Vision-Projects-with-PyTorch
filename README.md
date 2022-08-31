@@ -1,0 +1,2 @@
+# Computer-Vision-Projects-with-PyTorch
+this repo contains the practice files of the book titled "computer vision projects with pytorch". It uses python as progrmming language and some computer vision libraries inlcuding opencv, IP and pytorch. The practice follows the structure of the book and if some chapters does not have practice files it means they don't have any code files on it. Further, if you interested in to download any dataset of the code (incase you reproducing the code), I recomend you to read the book.
